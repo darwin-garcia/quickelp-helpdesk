@@ -2,6 +2,7 @@
 
 Hola! Bienvenido a la version inicial de la aplicacion **Quickelp**. 
 Este proyecto es la base de una aplicación de servicios técnicos de computadoras para empresas basado en un modelo **CRUD** bajo el modelo vista controlador **MVC**. No usa framework. Utiliza base de datos **MySQL** 
+
 No tiene diseño final o maquetado para entrega del software. Contiene solo el codigo fuente.
 
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
