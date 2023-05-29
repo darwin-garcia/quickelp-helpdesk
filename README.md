@@ -87,7 +87,7 @@ Pasos para abrir el proyecto desde cero:
 Puedes abrir el proyecto en el entorno de desarrollo. **NetBeans IDE 8.2**. </li>
 <li>Cuando abres el programa dirigete en el menú **File** luego  **Open Project**. </li>
 <li>Selecciona la carpeta que contiene todos los archivos de este proyecto.</li>
-
+</ul>
 Para ejecutar la base de datos se requiere usar un motor de base de datos basado en MySQL. Puede utilizar XAMPP o WampServer. Recomiendo abrir el localhost:8080 o el localhost:8000 para abrir el servidor web de base de datos y cargar el archivo con extension .sql incluido en el proyecto
 
 ## Guardar los cambios realizados
