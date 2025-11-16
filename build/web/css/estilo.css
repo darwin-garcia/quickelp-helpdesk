@@ -1,0 +1,125 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05-jul-2019, 3:29:37
+    Author     : Developer
+*/
+.text-font {
+	font-weight: bold;
+	font-size: 3rem;
+        
+}
+@font-face{
+
+    font-family: Blissful;
+    font-style: normal;
+    font-weight: normal;
+    src: url("../sources/Blissful-Thinking.otf") format("opentype"); 
+}
+body{
+   height:100% 
+}
+.logotipo{
+    font-family: Blissful;
+}
+.map {
+    height: 100%;
+}
+        
+.container{
+    background-color: #57B3EB;
+    border-radius: 10px;
+    color: white;
+    padding: 25px;
+    margin-top: 50px;
+    
+}
+.dropdown-menu-custom {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content-custom {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content-custom {
+  display: block;
+}
+
+.formulario__titulo{
+	
+	margin-top: auto;
+	color:rgba(0,0,0,0.6 );
+}
+
+.formulario__input,.formulario__label, .formulario__submit{
+	display:block;
+	width: 100%;
+	font-size:1.3em;
+}
+
+.formulario__input{
+    padding : 12px;
+    background: rgba(0,0,0,0.1);
+    border:1px, solid rgba(0,0,0,0.3);   
+    margin-top: 50px;
+}
+
+.formulario__input:focus+.formulario__Label{
+	margin-top: -135px;
+}
+
+.formulario__label{
+	padding-left: 20px;
+	position: absolute;
+	margin-top: -95px;
+	z-index: -40;
+	color:rgba(0,0,0,0.9);
+	transition: all 0.2s;
+}
+
+.formulario__submit{
+	background:rgba(0,0,0,0,0.5);
+	color: black;	
+	padding: 20px 20px;
+	cursor: pointer;
+	border:none;
+}
+nav{
+    min-height: 50px;
+}
+section{
+    min-height: 768px;
+    max-height: 80vh;
+    width:100%;
+    height:100%;
+    margin: .5em;
+    padding-bottom: 4em;
+    position: relative;
+}
+footer {
+    height: 4em;
+    left: 0; 
+    bottom: 0; 
+    width: 100%;
+    float:left;
+    clear: both;
+}
+.sticky.is-sticky {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+}
