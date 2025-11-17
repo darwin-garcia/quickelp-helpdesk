@@ -1,4 +1,15 @@
 # Bienvenido a Quickelp!
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/eaf28ab7-e48a-4c41-9b42-778b15cf7fa1" />
+<img width="1920" height="920" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/b1b4ff49-8c3f-4ff9-affa-9cb0c60e2372" />
+<img width="1920" height="923" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/d319aec3-44b7-4dac-a08b-00d94324c95a" />
+<img width="1920" height="965" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/544bd823-9605-44f3-be2e-762ab6bbba12" />
+<img width="1920" height="927" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/a41344d5-f47c-4d56-bd1a-6423a4b039d7" />
+<img width="1920" height="920" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/a568f3db-917f-4886-a5db-fbf5cefdfe42" />
+<img width="1920" height="923" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/b2a7fad9-5f7c-4a01-b3b7-536c0cc6e92f" />
+<img width="1920" height="922" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/71fb3cd5-3b6b-4dad-bed0-5099be3d5118" />
+<img width="1920" height="928" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/04bc1450-3f44-4c9b-a2b5-cc9707fbc66e" />
+<img width="1920" height="922" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/b981bc7b-b800-48c3-bf78-35f21c3b5a1f" />
+
 
 Hola! Bienvenido a la version inicial de la aplicacion **Quickelp**. 
 Este proyecto es la base de una aplicación de servicios técnicos de computadoras para empresas basado en un modelo **CRUD** bajo el modelo vista controlador **MVC**. No usa framework. Utiliza base de datos **MySQL** 
